@@ -1,0 +1,5 @@
+Miguel Flores;Finanzas;1;45000.00;55-25-20-89-97;40
+Juan Flores;Ingenieria;2;45000.00;24-61-28-57-65;40
+Sergio Castillo;Produccion;3;45000.00;77-17-94-66-87;40
+Oscar Ayala;Gerencia;4;45000.00;24-81-85-62-80;40
+AMY;Gerencia;10;87000.00;5529178756;40
